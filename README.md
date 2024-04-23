@@ -4,14 +4,15 @@
 
 ## Table of contents
 
-- [General info](#general-info)
-- [Screenshots](#screenshots)
-- [Technologies](#technologies)
-- [Setup](#setup)
-- [Features](#features)
-- [Status](#status)
-- [Inspiration](#inspiration)
-- [Contact](#contact)
+- [Image gallery](#image-gallery)
+  - [Table of contents](#table-of-contents)
+  - [General info](#general-info)
+  - [Screenshots](#screenshots)
+  - [Technologies](#technologies)
+  - [Setup](#setup)
+  - [Code Examples](#code-examples)
+  - [Features](#features)
+  - [Status](#status)
 
 ## General info
 
@@ -20,7 +21,7 @@
 
 ## Screenshots
 
-![Example screenshot]()
+![Example screenshot](./assets/code.png)
 
 ## Technologies
 
@@ -41,7 +42,7 @@ clone the repo and start using the stop watch.
 
 ## Features
 
-List of features ready and Todos for future development
+List of features ready and Todo's for future development
 
 -
 -
