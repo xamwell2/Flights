@@ -65,9 +65,5 @@ ul:first-of-type {
 .flight:hover {
     box-shadow: 0 0 .625em rgba(0, 0, 0, .1);
     cursor: pointer;
-    transform: translate(1em);
-}
-
-.flight li:hover{
-
+    transform: translate(2em);
 }
