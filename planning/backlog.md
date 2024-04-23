@@ -1,13 +1,13 @@
-# Backlog
+# Flight Schedule App Backlog
 
 ## Must-Haves
 
-> these are necessary for basic usability
+- Display of upcoming flights
 
 ## Should-Haves
 
-> these will complete the user experience, but are not necessary
+- Sort flights by departure time or arrival time
 
 ## Could-Haves
 
-> would be really cool ... if there's time
+- [ ] Add more detail about flight information
